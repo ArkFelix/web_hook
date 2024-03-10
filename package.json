@@ -1,0 +1,12 @@
+{
+    "name": "webhook-receiver",
+    "version": "1.0.0",
+    "description": "A simple webhook receiver for TradingView",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "author": "Your Name",
+    "license": "MIT"
+  }
+  
